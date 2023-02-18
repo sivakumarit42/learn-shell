@@ -14,6 +14,7 @@ xyz() {
 ## Main Program
 ## Call a function
 a=120
+echo Value of a - $a
 xyz 123 456
 echo Value of b - $b
 
