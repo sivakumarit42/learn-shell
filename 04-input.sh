@@ -1,6 +1,7 @@
 # 0-n , $*/$@, $#
 
-echo First Argument $1 # First Argument
+
+ # First Argument
 echo Second Argument $2 # Second Argument
 
 echo Script Name $0 # Script Name
