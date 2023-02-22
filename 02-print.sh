@@ -22,6 +22,6 @@ echo Hello World
 
 echo -e "line1\nline2\nline3"
 
-echo  "line4\nline5"
+echo  'line4\nline5'
 
 ## \e for color, same \n for new line
