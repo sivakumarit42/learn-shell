@@ -5,6 +5,8 @@ if [ "${number}" -eq 5 ]; then # then can go in next line as well, also semi col
   echo number is 5
 else
     echo given number is not equal to 5
+    echo given number "${number}"
+    echo given number "$1"
 fi
 
 if [ "${string}" == abc ]; then
