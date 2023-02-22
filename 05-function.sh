@@ -25,4 +25,4 @@ abc() {
 }
 
 abc
-echo Exit Status of abc function = $1
+echo Exit Status of abc function = $?
