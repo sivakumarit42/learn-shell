@@ -4,7 +4,7 @@ string=$2
 if [ "${number}" -eq 5 ]; then # then can go in next line as well, also semi colan is also fine in the same line
   echo number is 5
   else
-    the given number is "${number}"
+    the given number is not equal to 5
 fi
 
 if [ "${string}" == abc ]; then
