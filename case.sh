@@ -1,3 +1,4 @@
+#syntax
 # case $var in
 # string1) commands ;;
 # string2) commands ;;
