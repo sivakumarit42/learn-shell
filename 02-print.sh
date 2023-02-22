@@ -24,4 +24,6 @@ echo -e "line1\nline2\nline3"
 
 echo  -e "line4\nline5"
 
+echo   "line6\nline7"
+
 # \e for color, same \n for new line
