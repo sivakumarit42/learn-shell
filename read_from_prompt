@@ -1,6 +1,6 @@
 # When we need a prompt for input
 
-read -p 'Enter your name: ' name
+read -p 'Enter your name: ' name    #keyword is read -p
 
 echo "Your Name = $name"
 
