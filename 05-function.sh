@@ -18,3 +18,11 @@ echo Value of a - $a
 xyz 123 456
 echo Value of b - $b
 
+abc() {
+  echo Hello
+  return 109
+  echo Bye
+}
+
+abc
+echo Exit Status of abc function = $?
