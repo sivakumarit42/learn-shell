@@ -29,3 +29,4 @@ echo   "line6\nline7"
 echo   'line8\nline9'
 
 # \e for color, same \n for new line
+
